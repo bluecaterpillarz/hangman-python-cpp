@@ -292,4 +292,5 @@ while(lives>0 and checking):
 if "_" in showing2:
     print("You lose! Your word is "+random_word)
 else:
+
     print("You win!And your word was "+random_word)
